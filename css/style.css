@@ -1,58 +1,215 @@
 *{
+
   margin: 0px;
   padding: 0px;
 
 }
+  
+  body{
+
+/*background-image: url("../img/back.jpg");
+background-repeat: no-repeat;
+background-size: cover;*/
+
+
+background-color: black;
+  }
+
 
 .container{
 
 width: 1140px;
+margin: 0 auto;
+
+}
+
+.formcontrol-1{
+
+width: 45%;
+
 float: left;
 
+margin-left: 10px;
+}
+
+.h-one{
+margin-top: 38px;
+
+
+font-family: 'Barlow Semi Condensed', sans-serif;
+
+
+
+color: #ffffff;
+font-size: 30px;
+text-transform: uppercase;
+display: inline-block;
+
+}
+
+.h-two{font-family: 'Barlow Semi Condensed', sans-serif;color: #ffffff;font-size: 30px;
+text-transform: uppercase;margin-top: -8px;
+margin: 1%px 6%px 0% 27%;
+display: inline-block;
 }
 
 
-.form-left{
 
-	background-image: url("../img/back1.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;	
-    width: 50%;
-    float: left;
+.formcontrol-1 h6{
+
+color: #ffffff;
+
+font-size: 12px;
+
+
+
+padding: 14px 0px;
+
+font-family: 'PT Sans', sans-serif;
 }
 
 
-.form-left h2{
+.formcontrol-1 a{
+
+PADDING: 10PX 19px;
+
+TEXT-DECORATION: NONE;
+
+BACKGROUND: #03A9F4;
 
 color: white;
 
-padding: 40p;
+font-size: 15px;
 
-margin-top: 40px;
+text-transform: uppercase;
+}
+.formcontrol-1 span{
+
+color: #0cda15;
 }
 
-.form-left p{
+.formcontrol-1 ul{
 
+margin-bottom: 21px;
 
-
+display: inline-block;
 }
 
-.form-left ul{
+.formcontrol-1 ul li{
+
+color: white;
 
 
+
+list-style: none;
+
+padding-left: 10px 0px;
+
+
+
+padding: 1px;
+
+/* margin-top: 5px; */
 }
-.form-left ul li{
 
 
 
-}
+.formcontrol-3{
 
-.form-right{
+background: #03A9F4;
 
-background-color: blue;
+margin-top: 10px 10px;
+
+
+
+padding: 9px 8px;
+
+text-align: center;
+
 width: 50%;
-float: left;
+
+border-radius: 5px;
+
+margin-top: 56px;
+}
+
+
+
+.formcontrol-3 h2{
+  color: white;
+  
+  font-size: 29px;
+  margin-top: 18px;
+  text-transform: uppercase;
+  
+
+
+
+font-family: 'Barlow Semi Condensed', sans-serif;
 
 }
 
+.formcontrol-3 h6{
+
+font-family: 'Barlow Semi Condensed', sans-serif;
+
+
+color: white;
+
+font-size: 14px;
+
+margin-bottom: 18px;
+
+font-family: -webkit-pictograph;
+}
+
+
+.formcontrol-4{
+
+background: #fff;
+
+border: 1px solid #ccc;
+
+padding: 10px 40px 10px 10px;
+
+margin: 2px;
+
+font-family: 'Open Sans', sans-serif;
+
+font-size: 15px;
+
+color: #555;
+
+width: 77%;
+}
+
+.btn2{
+
+margin: 1%;
+
+font-family: 'Open Sans', sans-serif;
+
+font-size: 14px;
+
+color: #fff;
+
+background-color: #751f84;
+
+text-transform: uppercase;
+
+padding: 8px 67px;
+
+margin-bottom: 18px;
+
+border-style: none;
+
+width: 95%;
+}
+
+.formcontrol-2{
+   
+width: 50%;
+   
+float: left;
+}
 
